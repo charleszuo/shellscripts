@@ -1,0 +1,9 @@
+#!/bin/sh
+
+###########################################################################
+# shell name for examle /usr/bin/service
+#
+###########################################################################
+
+PATH=/usr/local/bin:/usr/bin:/bin:/sbin:/usr/sbin:/home/charles/bin
+export PATH
